@@ -1,2 +1,3 @@
 # DSA-Practice
-Platform-QuestionNo.-Question
+Platform used: Leetcode
+
