@@ -1,3 +1,3 @@
 # DSA-Practice
-Platform used: Leetcode
+<b>Leetcode</b>
 
